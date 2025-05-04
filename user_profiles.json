@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "firstName": "Yuki",
+      "lastName": "Takahashi",
+      "email": "yuki.takahashi@mail.com",
+      "address": "1-2-3 Minato, Tokyo",
+      "country": "Japan"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Silva",
+      "email": "carlos.silva@outlook.com",
+      "address": "Av. Brasil, São Paulo",
+      "country": "Brazil"
+    }
+  ]
+}
