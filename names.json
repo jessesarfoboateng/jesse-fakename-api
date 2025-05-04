@@ -1,4 +1,17 @@
 {
-  "firstNames": ["Kwame", "Aisha", "John", "Mei", "Carlos", "Amara", "Fatima", "Yuki", "Raj", "Anya"],
-  "lastNames": ["Mensah", "Nguyen", "Smith", "Gonzalez", "Kim", "Hassan", "Kowalski", "Chen", "Patel", "Ivanov"]
+  "firstNames": [
+    "James", "John", "Robert", "Michael", "William", "David", "Richard", "Joseph", "Thomas", "Charles",
+    "Mary", "Patricia", "Jennifer", "Linda", "Elizabeth", "Barbara", "Susan", "Jessica", "Sarah", "Karen",
+    "Matthew", "Daniel", "Anthony", "Mark", "Donald", "Steven", "Paul", "Andrew", "Joshua", "Kenneth",
+    "Emily", "Emma", "Olivia", "Ava", "Isabella", "Mia", "Sophia", "Charlotte", "Amelia", "Harper",
+    "Benjamin", "Logan", "Jacob", "Jackson", "Levi", "Samuel", "Henry", "Sebastian", "Nathan", "Jack"
+  ],
+  "lastNames": [
+    "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
+    "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin",
+    "Lee", "Perez", "Thompson", "White", "Harris", "Sanchez", "Clark", "Ramirez", "Lewis", "Robinson",
+    "Walker", "Young", "Allen", "King", "Wright", "Scott", "Torres", "Green", "Baker", "Adams",
+    "Nelson", "Hill", "Campbell", "Mitchell", "Roberts", "Carter", "Phillips", "Evans", "Turner", "Parker"
+  ]
 }
+
