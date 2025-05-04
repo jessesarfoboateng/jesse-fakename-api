@@ -1,0 +1,16 @@
+{
+  "ages": [
+    { "age": 5, "group": "Child" },
+    { "age": 12, "group": "Pre-Teen" },
+    { "age": 16, "group": "Teen" },
+    { "age": 20, "group": "Young Adult" },
+    { "age": 25, "group": "Young Adult" },
+    { "age": 30, "group": "Adult" },
+    { "age": 35, "group": "Adult" },
+    { "age": 40, "group": "Adult" },
+    { "age": 50, "group": "Middle-Aged" },
+    { "age": 60, "group": "Senior" },
+    { "age": 70, "group": "Senior" },
+    { "age": 85, "group": "Elderly" }
+  ]
+}
