@@ -1,0 +1,9 @@
+{
+  "countries": [
+    { "name": "Ghana", "code": "GH", "continent": "Africa" },
+    { "name": "Japan", "code": "JP", "continent": "Asia" },
+    { "name": "USA", "code": "US", "continent": "North America" },
+    { "name": "Brazil", "code": "BR", "continent": "South America" },
+    { "name": "Germany", "code": "DE", "continent": "Europe" }
+  ]
+}

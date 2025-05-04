@@ -1,0 +1,9 @@
+{
+  "cities": [
+    { "city": "Accra", "country": "Ghana" },
+    { "city": "New York", "country": "USA" },
+    { "city": "São Paulo", "country": "Brazil" },
+    { "city": "Tokyo", "country": "Japan" },
+    { "city": "Berlin", "country": "Germany" }
+  ]
+}
